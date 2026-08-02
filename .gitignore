@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Build
+dist/
+build/
+
+# Coverage
+.coverage
+htmlcov/
+# Antigravity metadata
+*.metadata.json
+
+# Pytest cache
+.pytest_cache/
+
+# Python cache
+__pycache__/
